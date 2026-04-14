@@ -1,7 +1,5 @@
-# Courses Template
-This repository can be used to generate simple Alliance-branded websites with Jekyll. It uses the Github Pages-compatible [Minimal theme](https://github.com/pages-themes/minimal/) with customizations.
-
-To use, create a new repository within the Orbis-Cascade-Alliance organization and select this one as the template. (Outside of the Alliance, fork and clone the repository.) Create a branch to use as the source for the website, such as "gh-pages," or use the default "main." Set the selected branch as the source under Settings > Pages. GitHub will automatically generate the website from the source code.
+# Generative AI Training Course
+This repository hosts the course published by the [Generative AI Training Project Group](https://www.orbiscascade.org/programs/systems/gait-project-group/) in FY2026.
 
 ## Site Setup
 

@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Course Title
+title: Generative AI
 email: tech@orbiscascade.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Course description, in _config.yml
+  A course from the Orbis Cascade Alliance on using GenAI for library work
 baseurl: "" # Repository subfolder
-url: "https://github.orbiscascade.org/courses" # The GitHub domain and repository, e.g., https://github.orbiscascade.org/systems-librarianship
+url: "https://github.orbiscascade.org/generative-ai" # The GitHub domain and repository, e.g., https://github.orbiscascade.org/systems-librarianship
 logo: "/assets/img/orbis_cascade_logo.png"
-project: "Orbis-Cascade-Alliance/courses" # The path to the project on github.com
+project: "Orbis-Cascade-Alliance/generative-ai" # The path to the project on github.com
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0

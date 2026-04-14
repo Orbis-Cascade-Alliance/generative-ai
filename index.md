@@ -5,28 +5,22 @@ title: Home
 
 # {{ page.title }}
 
-This is the homepage of the course.
+Welcome to the Orbis Cascade Alliance's Generative AI Training course. By completing the course, Alliance member staff will be able to:
 
-## Adding Pages
+- Define essential terms in Generative AI.
+- Describe emerging applications of Generative AI in library services.
+- Explain in non-technical terms how tools like ChatGPT generate text from prompts.
+- Recognize common problems and limitations in AI-generated output.
+- Identify ethical, privacy, and intellectual property considerations in applying AI to library work.
+- Apply criteria for assessing Generative AI tools for use in library work or academic research.
+- Construct effective prompts for useful results.
 
-Add and edit pages within the /_pages directory. [Example]({{ "/page" | absolute_url}})
+## Lessons
 
-Set the titles, permalinks, and order in the frontmatter. (Between the lines of three dashes at the top.)
+This course consists of five lessons written by the [Generative AI Training Project Group](https://www.orbiscascade.org/programs/systems/gait-project-group/) in FY2026. The lessons will be presented in a two-hour webinar on April 24, 2026. After the webinar, the recordings and slides will be posted on each lesson page for review and self-paced learning.
 
-All pages will appear in the menu to the left. For example, the page with an order of 1 will appear first in the list, followed by the page with an order of 2, etc.
-
-## Markdown
-
-All pages are written in Markdown. See [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-
-## Multimedia
-
-To add images to a page, add them to the /assets/img folder. Either use the complete path in the image source, including the repository, or use a path relative to the root of this project with the Jekyll filter ``absolute_url``. Examples:
-
-    ![Artistic rendering of computers](/systems-librarianship/assets/img/binary-monitor-particles-600px.jpg)
-    
-    ![Artistic rendering of computers]({{ "/assets/img/binary-monitor-particles-600px.jpg" | absolute_url }})
-
-To embed YouTube videos, use the iframe embed code. Example:
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/08VDn3vdD4A?si=EBxc050TnfEXUjAV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen\></iframe>
+1. [Introduction: Generative AI Tools and How They Work]({{ "/intro" | absolute_url }})
+2. [Challenges: Problems and Limitations of AI-Generated Output]({{ "/challenges" | absolute_url }})
+3. [Ethics: Bias, Privacy, Copyright, and Environmental Impacts]({{ "/ethics" | absolute_url }})
+4. [Assessment & Policies: Evaluating Generative AI Tools for Use in Higher Ed]({{ "/assessment" | absolute_url }})
+5. [Prompt Engineering: Effective Use of GenAI to Enhance Library Work]({{ "/prompts" | absolute_url }})
