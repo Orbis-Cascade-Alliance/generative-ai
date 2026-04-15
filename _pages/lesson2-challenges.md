@@ -7,7 +7,8 @@ order: 2
 
 # Challenges: Problems and Limitations of AI-Generated Output
 
-[Slides]({{ "/assets/files/challenges-slides.pdf" | absolute_url }}) (PDF)
+- [Slides (PPTX)]({{ "/assets/files/challenges-slides.pptx" | absolute_url }})
+- [Slides (PDF)]({{ "/assets/files/challenges-slides.pdf" | absolute_url }})
 
 [![Decorative image listing various challenges Generative AI causes]({{ "/assets/img/challenges-word-cloud.png" | absolute_url }})]({{ "/assets/img/challenges-word-cloud.png" | absolute_url }})
 
@@ -174,7 +175,7 @@ A related concern is AI sycophancy, where models provide overly flattering or ag
 Despite students' widespread use of generative AI tools, many perceive a lack of support from librarians in navigating these technologies. A [2025 global survey](https://www.sagepub.com/explore-our-content/press-office/press-releases/2025/05/20/new-technology-from-sage-report-explores-librarian-leadership-in-the-age-of-ai) (Sage, 2025\) of over 1,000 students and 300 librarians conducted by Technology from Sage revealed significant gaps between student AI use and librarian engagement:
 
 - Over half of students reported using AI tools like ChatGPT in their research, yet only 8% said they received support from librarians in using these tools  
-- Only 17% reported they would turn to a librarian for assistance with generative AI and 27% of students said they wouldn't look to anyone at their institution for AI guidanc 
+- Only 17% reported they would turn to a librarian for assistance with generative AI and 27% of students said they wouldn't look to anyone at their institution for AI guidance 
 - Nearly one-third of students feel their librarians wouldn't be able to help with feelings of academic overwhelm, representing a missed opportunity for proactive support  
 - Students primarily use AI for simplifying research tasks such as summarizing articles and proofreading, but cite uncertainty around academic integrity as a barrier to deeper engagement
 
@@ -518,6 +519,6 @@ Perhaps there are some AI challenges to embrace: be the embodied inspiration tha
 
 Jaclyn Parrott drafted content for I. Overview of Challenges, II. Specific Challenges: Governance, Academic Integrity (Plagiarism, Source Attribution, and AI Detection Tools), Final Thoughts, III. Resources: Additional Reading Resources, and Slides 1-31 and 38-39. David Carson drafted content for II. Specific Challenges: Hallucinations, AI Competency, Cognitive Off-Loading, Evaluating Content, and AI Tool Accessibility and the Digital Divide, and Slides 32-37. III. Resources: References are based on all content.
 
-Jaclyn Parrott AID Statement: Artificial Intelligence Tool: Institutional versions of Gemini 3 Flash and M365 Copilot utilized January-April 2026; Visualization: Prompted Gemini 3 Flash and M365 Copilot to generate various images for the presentation slides. Data Collection Method: Prompted M365 Copilot to develop AI model comparison charts; prompted institutional version Gemini 3 and free versions of Grok 4.1, Claude Sonnet 4.6, and ChatGPT 5.2 to answer questions about their systems in the Overview of Challenges section; prompted M365 Copilot to answer if it plagiarizes in the Plagiarism section, to show examples of AI-generated versus human-written essays, and to recommend AI detection tips; prompted Gemini 3 Flash to generate a paragraph on a particular topic in order to compare it to a paragraph I had written on the same topic, 
+Jaclyn Parrott AID Statement: Artificial Intelligence Tool: Institutional versions of Gemini 3 Flash and M365 Copilot utilized January-April 2026; Visualization: Prompted Gemini 3 Flash and M365 Copilot to generate various images for the presentation slides. Data Collection Method: Prompted M365 Copilot to develop AI model comparison charts; prompted institutional version Gemini 3 and free versions of Grok 4.1, Claude Sonnet 4.6, and ChatGPT 5.2 to answer questions about their systems in the Overview of Challenges section; prompted M365 Copilot to answer if it plagiarizes in the Plagiarism section, to show examples of AI-generated versus human-written essays, and to recommend AI detection tips; prompted Gemini 3 Flash to generate a paragraph on a particular topic in order to compare it to a paragraph I had written on the same topic.
 
 David Carson AID Statement: Artificial Intelligence Tool: Google Gemini 3 and M365 Copilot (institutional instance) used January-February 2026; Writing—Review & Editing: Reviewed language for clarity and grammar.
