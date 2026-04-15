@@ -41,7 +41,9 @@ ol > li > ol {
   list-style: lower-alpha;
 }
 
-ul > li > ul {
+ul > li > ul,
+ol > li > ul,
+ul > li > ol {
   margin-bottom: 0;
 }
 
