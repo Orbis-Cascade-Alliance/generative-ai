@@ -7,9 +7,11 @@ order: 5
 
 # Prompt Engineering: Effective Use of GenAI to Enhance Library Work
 
+**Prompting** is the process of interacting with an artificial intelligence (AI) system by providing specific instructions or queries to achieve a desired outcome. This lesson will introduce techniques you can use to minimize frustrating, unhelpful responses and shape GenAI output into what you need.
+
 ## In This lesson
 
-1. [Introduction](#introduction)
+1. [GenAI Needs the Implicit Made Explicit](#genai-needs-the-implicit-made-explicit)
 2. [Principles and Tips](#principles-and-tips)
     1. [Prompt Foundations](#prompt-foundations)
     2. [Frameworks](#frameworks)
@@ -26,9 +28,7 @@ order: 5
     3. [Courses](#courses)
 5. [AID Statement](#aid-statement)
 
-## Introduction
-
-**Prompting** is the process of interacting with an artificial intelligence (AI) system by providing specific instructions or queries to achieve a desired outcome. This lesson will introduce techniques you can use to minimize frustrating, unhelpful responses and shape GenAI output into what you need.
+## GenAI Needs the Implicit Made Explicit
 
 Imagine you're working the reference desk. A patron approaches and says, "I need a recent article about chemistry." As an information professional, you're aware of some important context:
 
@@ -180,19 +180,16 @@ Select a GenAI chatbot available at your institution. Below are some scenarios y
 
 ### Brainstorming
 
-1. You're teaching a one-shot information literacy session and need ideas for activities to engage the students.
-- E.g., "Help me come up with an activity to give students hands-on practice in Academic Search Premier."
+1. You're teaching a one-shot information literacy session and need ideas for activities to engage the students. E.g., "Help me come up with an activity to give students hands-on practice in Academic Search Premier."
 
-2. You're establishing a new popular reads collection and need to find titles that will appeal to your student body.
-- Tip: Reduce the risk of hallucinations by enabling web searches and asking the tool to source reviews and lists from trustworthy publications.
+2. You're establishing a new popular reads collection and need to find titles that will appeal to your student body. Tip: Reduce the risk of hallucinations by enabling web searches and asking the tool to source reviews and lists from trustworthy publications.
 
 3. You need to make sense of a file of exported raw data and present findings to your colleagues. Use AI to help you brainstorm what stories the data could tell and decide which visual representations would be clear and effective.
 - Anonymized sample file of loans by year and LC classification code: [sample-loans-by-lc.csv]({{ "/assets/files/sample-loans-by-lc.csv" | absolute_url }})
 
 ### Research
 
-1. Construct a complex Boolean query for sources on a chosen topic.
-- E.g., "What would be an effective search query in a library catalog to find peer-reviewed sources to cite for a paper on this topic: \[topic here\]"
+1. Construct a complex Boolean query for sources on a chosen topic. E.g., "What would be an effective search query in a library catalog to find peer-reviewed sources to cite for a paper on this topic: \[topic here\]"
 
 2. Shop for a new label printer that works with your library's software and budget.
 
