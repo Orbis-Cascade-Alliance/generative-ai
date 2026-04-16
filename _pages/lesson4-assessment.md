@@ -7,7 +7,13 @@ order: 4
 
 # Assessment & Policies: Evaluating Generative AI Tools for Use in Higher Ed
 
+**Authors:** Electra Enslow (University of Washington) and Norman Lee (University of Idaho)
+
 This lesson aims to help librarians assess AI tools their institutions are thinking about adopting, as well as tools they have already adopted and wish to monitor. Since a lot of assessment is project dependent, this module strikes a balance between discussing other institutions' experiences with AI&mdash;which may or may not apply to a reader's institution&mdash;and providing an overview of the concepts/tools institutions frequently use to assess AI. Readers are then free to pick and choose which are most appropriate for them. To make the material more concrete, it concludes with some suggestions about how to pick and choose, as well as mini-assessment example.
+
+## Recording and Materials
+
+The recording and slides for this lesson will be posted here after April 24, 2026.
 
 ## In This Lesson
 
@@ -22,6 +28,7 @@ This lesson aims to help librarians assess AI tools their institutions are think
   - [Usability](#usability)
   - [Scalability](#scalability)
   - [Overall Takeaways for Libraries](#overall-takeaways-for-libraries)
+- [References](#references)
 - [AID Statements](#aid-statements)
 - [Footnotes](#footnotes)
 

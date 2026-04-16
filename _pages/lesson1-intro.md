@@ -7,9 +7,15 @@ order: 1
 
 # Introduction: Generative AI Tools and How They Work
 
+**Authors:** Chase Andrews (Linfield University) and Jeremiah Kellogg (Eastern Oregon University)
+
 Generative Artificial Intelligence (or GenAI) is a type of artificial intelligence within the AI landscape that is capable of generating or creating new content in numerous forms&mdash;such as text, images, music, and video. Often, when we discuss "AI" in our day-to-day conversations, generative AI is what we are referring to. In brief, generative AI models use massive amounts of data to generate a response based on a query or input. Based on the data that has been used for training, the AI model generates a response by making a series of predictions and deciding what piece of information should come next in a sequence&mdash;for instance, what word would most likely appear next in a text response, what pixel might show up next in an image, what note would come next in a song, etc. Due to the predictive nature of generative AI responses, there is a potential for inaccuracies, such as faulty responses, hallucinations (made-up information), or images that look a little "off" or uncanny. In these instances, the model has made an incorrect, or less than optimal, prediction about what data or information should show up in the output sequence. 
 
 This series of lessons will seek to explain in further detail how gen-AI platforms are constructed and how they operate. This first segment will introduce terminology associated with gen-AI, applications of gen-AI in library services, a helpful (but non-technical) explanation of how AI models generate text from prompts, and how AI is showing up in Alma/Primo. The following lessons will cover the challenges of working with AI, ethical issues, assessment approaches for AI outputs, and effective prompt engineering.
+
+## Recording and Materials
+
+The recording and slides for this lesson will be posted here after April 24, 2026.
 
 ## In This Lesson:
 1. [Essential Terms](#essential-terms)

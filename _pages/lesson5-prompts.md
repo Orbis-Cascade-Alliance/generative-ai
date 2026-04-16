@@ -7,7 +7,13 @@ order: 5
 
 # Prompt Engineering: Effective Use of GenAI to Enhance Library Work
 
+**Authors:** Chelsea Riddle (Central Washington University) and Tamara Marnell (Orbis Cascade Alliance)
+
 **Prompting** is the process of interacting with an artificial intelligence (AI) system by providing specific instructions or queries to achieve a desired outcome. This lesson will introduce techniques you can use to minimize frustrating, unhelpful responses and shape GenAI output into what you need.
+
+## Recording and Materials
+
+The recording and slides for this lesson will be posted here after April 24, 2026.
 
 ## In This lesson
 
@@ -39,7 +45,7 @@ Imagine you're working the reference desk. A patron approaches and says, "I need
 
 If a chatbot were to receive the same simple prompt, it would likely respond with a random headline from a popular science news site. (Give it a try and see!) That might technically satisfy the expressed need, but it wouldn't be useful.
 
-In the 1990s, many elementary school teachers gave a version of this language arts exercise ([source](https://eric.ed.gov/default.aspx?q=descriptor%3A%22Cooperative+Learning%22&ff1=pubERIC+Publications&pg=3&id=ED384915)): "Write instructions to teach an extra-terrestrial alien how to make a peanut butter sandwich." Most students would compose a familiar recipe like this: 
+In the 1990s, many elementary school teachers gave a version of this language arts exercise: "Write instructions to teach an extra-terrestrial alien how to make a peanut butter sandwich" ([McAllister, 1995](https://eric.ed.gov/default.aspx?q=descriptor%3A%22Cooperative+Learning%22&ff1=pubERIC+Publications&pg=3&id=ED384915)). Most students would compose a familiar recipe like this: 
 
 1. Spread peanut butter on one piece of bread.
 2. Put a second piece of bread on top.
@@ -85,7 +91,7 @@ By giving the AI a role, you narrow the focus to an area of expertise or a speci
 
 Tip: If you're looking for an AI tool to assume the role of a specific profession or do a specific job, check out [There's an AI for That](https://theresanaiforthat.com/)!
 
-#### The power of "I don’t know"
+#### The power of "I don't know"
 
 The tool only has the information that you provide, so it's always a good idea to include language to avoid hallucinations/guessing.
 
@@ -170,7 +176,7 @@ Let the AI do the heavy lifting for you. Paste your idea into the AI and ask it 
 
 Many GenAI tools today have complex architectures and are built to perform specialized tasks. They might use LLMs for some parts of their processes, but they aren't designed to be "chatbots." In these situations, the techniques above might not improve your results.
 
-For example, the Primo Research Assistant (PRA) is designed to use library resources for Retrieval Augmented Generation (RAG). For every prompt, the tool will select and summarize relevant sources from the Central Discovery Index (CDI). Attempting to engage the PRA in back-and-forth conversation, or specify a different format for the responses, will fail.
+For example, the [Primo Research Assistant](https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/015_Getting_Started_with_Primo_Research_Assistant) (PRA) is designed to use library resources for Retrieval Augmented Generation (RAG). For every prompt, the tool will select and summarize relevant sources from the Central Discovery Index (CDI). Attempting to engage the PRA in back-and-forth conversation, or specify a different format for the responses, will fail.
 
 You might also have varying levels of success with these techniques between chatbots made by different companies. Each GenAI model has its own "personality," strengths and weaknesses. You might find prompting strategies that work well in ChatGPT don’t in Gemini, and vice versa. Even the same model might provide very different experiences between versions, like GPT-4o vs. GPT-5. Experimentation and practice over time is the best way to figure out which approaches work (and which don't) in the GenAI tools you can access at your institution.
 

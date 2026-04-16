@@ -7,6 +7,12 @@ order: 3
 
 # Ethics: Bias, Privacy, Copyright, and Environmental Impacts
 
+**Authors:** Jason Cabaniss (Seattle University) and Shannon Kealey (Willamette University)
+
+## Recording and Materials
+
+The recording and slides for this lesson will be posted here after April 24, 2026.
+
 ## In This Lesson
 - [General](#general)
 - [Transparency](#transparency)

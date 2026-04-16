@@ -7,15 +7,15 @@ order: 2
 
 # Challenges: Problems and Limitations of AI-Generated Output
 
+**Authors:** David Carson (Oregon Health &amp; Science University) and Jaclyn Parrott (Eastern Washington University)
+
+## Recording and Materials
 - [Slides (PPTX)]({{ "/assets/files/challenges-slides.pptx" | absolute_url }})
 - [Slides (PDF)]({{ "/assets/files/challenges-slides.pdf" | absolute_url }})
 
-[![Decorative image listing various challenges Generative AI causes]({{ "/assets/img/challenges-word-cloud.png" | absolute_url }})]({{ "/assets/img/challenges-word-cloud.png" | absolute_url }})
-
-"Word Cloud with list of challenges." *M365 Copilot GPT-5*, Microsoft, 21 Jan. 2026, [https://m365.cloud.microsoft/chat/](https://m365.cloud.microsoft/chat/) 
+The recording of this lesson will be posted here after April 24, 2026.
 
 ## In This Lesson:
-
 1. [Overview of Challenges](#i-overview-of-challenges)
 2. [Specific Challenges](#ii-specific-challenges)
     - [Governance](#governance)
@@ -35,6 +35,10 @@ order: 2
 4. [AID Statements](#aid-statements)
 
 ## I. Overview of Challenges   
+
+[![Decorative image listing various challenges Generative AI causes]({{ "/assets/img/challenges-word-cloud.png" | absolute_url }})]({{ "/assets/img/challenges-word-cloud.png" | absolute_url }})
+
+"Word Cloud with list of challenges." *M365 Copilot GPT-5*, Microsoft, 21 Jan. 2026, [https://m365.cloud.microsoft/chat/](https://m365.cloud.microsoft/chat/) 
 
 Generative Artificial Intelligence presents a wide array of challenges for higher education and academic libraries. This overview covers multiple areas of concern that may impact research, information access, scholarly communication, teaching, and learning.
 
