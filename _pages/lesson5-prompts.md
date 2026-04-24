@@ -13,7 +13,10 @@ order: 5
 
 ## Recording and Materials
 
-The recording and slides for this lesson will be posted here after April 24, 2026.
+- [Slides (PPTX)]({{ "/assets/files/prompt-slides.pptx" | absolute_url }})
+- [Slides (PDF)]({{ "/assets/files/prompt-slides.pdf" | absolute_url }})
+
+The recording of this lesson will be posted here after April 24, 2026.
 
 ## In This lesson
 
