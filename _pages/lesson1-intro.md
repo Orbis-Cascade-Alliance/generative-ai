@@ -15,6 +15,8 @@ This series of lessons will seek to explain in further detail how gen-AI platfor
 
 ## Recording and Materials
 
+The recording and slides for this lesson cover [Essential Terms](#essential-terms) through [Emerging Applications of AI in Libraries](#emerging-applications-of-ai-in-libraries). [How AI Works](#how-ai-works) is available in text, below.
+
 - [Slides (PPTX)]({{ "/assets/files/introduction-slides.pptx" | absolute_url }})
 - [Slides (PDF)]({{ "/assets/files/introduction-slides.pdf" | absolute_url }})
 
