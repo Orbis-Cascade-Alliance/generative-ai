@@ -15,7 +15,10 @@ This series of lessons will seek to explain in further detail how gen-AI platfor
 
 ## Recording and Materials
 
-The recording and slides for this lesson will be posted here after April 24, 2026.
+- [Slides (PPTX)]({{ "/assets/files/introduction-slides.pptx" | absolute_url }})
+- [Slides (PDF)]({{ "/assets/files/introduction-slides.pdf" | absolute_url }})
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fkfJzcvko88?si=Qw-SdKUF1e1u1LYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## In This Lesson:
 1. [Essential Terms](#essential-terms)

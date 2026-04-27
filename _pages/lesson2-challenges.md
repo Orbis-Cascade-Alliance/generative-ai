@@ -10,10 +10,11 @@ order: 2
 **Authors:** David Carson (Oregon Health &amp; Science University) and Jaclyn Parrott (Eastern Washington University)
 
 ## Recording and Materials
+
 - [Slides (PPTX)]({{ "/assets/files/challenges-slides.pptx" | absolute_url }})
 - [Slides (PDF)]({{ "/assets/files/challenges-slides.pdf" | absolute_url }})
 
-The recording of this lesson will be posted here after April 24, 2026.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iY6q_YiQpWA?si=XY4rbiEjusLF4UKL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## In This Lesson:
 1. [Overview of Challenges](#i-overview-of-challenges)

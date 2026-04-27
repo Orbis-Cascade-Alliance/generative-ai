@@ -13,7 +13,10 @@ This lesson aims to help librarians assess AI tools their institutions are think
 
 ## Recording and Materials
 
-The recording and slides for this lesson will be posted here after April 24, 2026.
+- [Slides (PPTX)]({{ "/assets/files/assessment-slides.pptx" | absolute_url }})
+- [Slides (PDF)]({{ "/assets/files/assessment-slides.pdf" | absolute_url }})
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/32DNrdpJko8?si=QcicdpdZkbLYd0QL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## In This Lesson
 
